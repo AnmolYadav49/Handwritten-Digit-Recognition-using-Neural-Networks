@@ -22,3 +22,5 @@ Tech Stack:
 **This project serves as a practical demonstration of neural networks and ML model deployment, suitable for academic use, portfolio showcasing, and introductory deep learning applications.**
 
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/1ba2678f-130f-4927-99f2-1c7be78c92af" />
+
+**NOTE**:- In coming future i shall work throughly to train the Neural Network in such a way that it can identify how '7' can be differentiated with '3'. As well as increase the limit range of the Numbers from just 0-9 to 0-30.
