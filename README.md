@@ -20,3 +20,5 @@ Tech Stack:
 **Python, TensorFlow/Keras, NumPy, Streamlit**
 
 **This project serves as a practical demonstration of neural networks and ML model deployment, suitable for academic use, portfolio showcasing, and introductory deep learning applications.**
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/1ba2678f-130f-4927-99f2-1c7be78c92af" />
